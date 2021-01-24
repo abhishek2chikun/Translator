@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <link rel="stylesheet" href="{{url_for('static', filename='style.css')}}" /> 
+    </head>
+    <body>
+        <form action="#" method="post">
+            <p>Input:</p>
+            <input type="radio" id="image" name="input" value="image">
+            <label for="image">Image</label><br>
+            <input type="radio" id="audio" name="input" value="audio">
+            <label for="audio">Audio</label><br>
+            <input type="radio" id="text" name="input" value="text">
+            <label for="text">Text</label>
+            <br>
+            <input type='submit' value='submit'/>
+        </form>
+    </body>
+</html>
