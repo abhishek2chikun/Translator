@@ -1,5 +1,5 @@
 # Translator
-A translator **api** using **flask** where we can perform:<br?>
+A translator **api** using **flask** where we can perform:<br/>
 -Speech Recognition (Speech-to-text)<br/>
 -OCR (Image to Text)<br/>
 -Text Translation<br/>
