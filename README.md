@@ -7,9 +7,13 @@ A translator **api** using **flask** where we can perform:<br?>
 
 
 Sample:
-###Input Image:
+Input Image:
+
+
 ![input image](input.png)
 
-###Output result in JSON format:
+Output result in JSON format:
+
+
 ![output image](output.png)
 
